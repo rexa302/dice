@@ -5,7 +5,7 @@ Parameters
 
 Licensor:             Arpit Bhayani.
 Licensed Work:        DiceDB 0.x and 1.x
-                      The Licensed Work is (c) 2024 Arpit Bhayani.
+                      The Licensed  is (c) 2024 Arpit Bhayani.
 Additional Use Grant: You may make use of the Licensed Work, provided that
                       you may not use the Licensed Work for a Database
                       Service.
